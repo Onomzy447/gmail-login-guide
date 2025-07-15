@@ -27,9 +27,9 @@ Before logging in, make sure you:
 
 ## Steps
 
-1. *Open your web browser*  
-   You can use Chrome, Firefox, or any browser you prefer.
-      ![Open Browser](https://github.com/Onomzy447/gmail-login-guide/blob/main/screenshots/open-browser-jpg.jpg?raw=true)
+1. You can use Chrome, Firefox, or any browser you prefer.
+   *Open your web browser*
+   ![Open Browser](https://github.com/Onomzy447/gmail-login-guide/blob/main/screenshots/open-browser-jpg.jpg?raw=true)
 
 3. *Go to the Gmail website*  
    In the address bar, type www.gmail.com and press *Enter*.
