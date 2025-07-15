@@ -28,6 +28,7 @@ Before logging in, make sure you:
 ## Steps
 
 1. You can use Chrome, Firefox, or any browser you prefer.
+   <br>
    *Open your web browser*
    ![Open Browser](https://github.com/Onomzy447/gmail-login-guide/blob/main/screenshots/open-browser-jpg.jpg?raw=true)
 
