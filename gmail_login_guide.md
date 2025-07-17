@@ -31,13 +31,13 @@ Before logging in, make sure you:
    <br> 
    You can use Chrome, Firefox, or any browser you prefer.
    <br>
-   [Open Browser](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/open-browser.jpg?raw=true)
+   ![Open Browser](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/open-browser.jpg?raw=true)
 
 3. *Go to the Gmail website*
    <br>
    In the address bar, type www.gmail.com and press *Enter*.
    <br>
-   [Type Gmail](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/type-gmail.jpg?raw=true)
+   ![Type Gmail](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/type-gmail.jpg?raw=true)
 
 4. *Click on “Sign in”*  
    You'll see the *Sign in* button at the top right of the page.
