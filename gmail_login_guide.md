@@ -33,23 +33,35 @@ Before logging in, make sure you:
    <br>
    ![Open Browser](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/open-browser.jpg?raw=true)
 
-3. *Go to the Gmail website*
+2. *Go to the Gmail website*
    <br>
    In the address bar, type www.gmail.com and press *Enter*.
    <br>
    ![Type Gmail](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/type-gmail.jpg?raw=true)
 
-4. *Click on “Sign in”*  
+3. *Click on “Sign in”*
+   <br>
    You'll see the *Sign in* button at the top right of the page.
+   <br>
+   ![Click signin](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/click-signin.jpg?raw=true)
 
-5. *Enter your email address*  
+4. *Enter your email address*
+   <br> 
    Type your Gmail address (e.g., example@gmail.com) and click *Next*.
+   <br>
+   ![Enter Email](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/click-signin.jpg?raw=true)
 
-6. *Enter your password*  
+5. *Enter your password*
+   <br>  
    Type your Gmail password carefully and click *Next*.
+   <br>
+   ![Enter Password](
 
-7. *Access your inbox*  
+6. *Access your inbox*
+    <br>
    Once your details are correct, Gmail will take you directly to your inbox.
+   <br>
+   ![inbox](
 
 ---
 
