@@ -30,19 +30,22 @@ Before logging in, make sure you:
 1. *Open your web browser*  
    You can use Chrome, Firefox, or any browser you prefer.
 
-2. *Go to the Gmail website*  
+2. *Go to the Gmail website*
+   <br>
    In the address bar, type www.gmail.com and press *Enter*.
+   <br>
+   [Type Gmail](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/type-gmail.jpg?raw=true)
 
-3. *Click on “Sign in”*  
+4. *Click on “Sign in”*  
    You'll see the *Sign in* button at the top right of the page.
 
-4. *Enter your email address*  
+5. *Enter your email address*  
    Type your Gmail address (e.g., example@gmail.com) and click *Next*.
 
-5. *Enter your password*  
+6. *Enter your password*  
    Type your Gmail password carefully and click *Next*.
 
-6. *Access your inbox*  
+7. *Access your inbox*  
    Once your details are correct, Gmail will take you directly to your inbox.
 
 ---
