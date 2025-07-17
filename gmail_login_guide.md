@@ -51,12 +51,13 @@ Before logging in, make sure you:
    <br>
    ![Enter Email](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/enter-email.jpg?raw=true)
 
-5. *Enter your password* 
+5. *Enter your password*
+   <br>
    Type your Gmail password carefully and click *Next*.
     <br>
    ![Enter Password](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/enter_password.jpg?raw=true)
 
-6. *Access your inbox*
+7. *Access your inbox*
     <br>
    Once your details are correct, Gmail will take you directly to your inbox.
    <br>
