@@ -27,10 +27,13 @@ Before logging in, make sure you:
 
 ## Steps
 
-1. *Open your web browser*  
+1. *Open your web browser*
+   <br> 
    You can use Chrome, Firefox, or any browser you prefer.
+   <br>
+   [Open Browser](https://github.com/Onomzy447/gmail-login-guide/blob/main/gmail-login/open-browser.jpg?raw=true)
 
-2. *Go to the Gmail website*
+3. *Go to the Gmail website*
    <br>
    In the address bar, type www.gmail.com and press *Enter*.
    <br>
